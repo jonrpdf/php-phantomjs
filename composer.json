@@ -1,5 +1,5 @@
 {
-  "name": "jonnyw/php-phantomjs",
+  "name": "jonrpdf/php-phantomjs",
   "description": "A PHP wrapper for loading pages through PhantomJS - upgraded for twig 2 support",
   "keywords": [
     "PhantomJS",
@@ -10,9 +10,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jonny Wenmoth",
-      "email": "contact@jonnyw.me",
-      "homepage": "http://jonnyw.me/"
+      "name": "Jon Rhine",
     }
   ],
   "minimum-stability": "stable",
